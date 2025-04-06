@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Ameen Ahsan!
 
-<!--
-**Ameenahsanmi/Ameenahsanmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Data Analyst | 📊 Market Research Enthusiast | 🌱 E-commerce Explorer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I’m passionate about data, trading, and turning insights into action.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- 🔎 Building dashboards using Power BI & Excel
+- 🌿 Starting a sustainable e-commerce brand
+- 📈 Analyzing trading patterns (XAUUSD, Forex)
+
+## 🧰 Tools I Use
+- Power BI, Excel, Python
+- SQL, Google Sheets
+- Canva, Figma
+
+## 📌 Featured Projects
+- [📊 Power BI Dashboard – Sales Performance](https://github.com/yourusername/sales-dashboard)
+- [📈 XAUUSD Trading Analytics](https://github.com/yourusername/xauusd-analysis)
+
+## 📬 Connect with Me
+[LinkedIn](https://linkedin.com/in/Ameenahsanmi) | [YouTube – The Wealth Stories](https://youtube.com/@thewealthstories)
+
+---
+
+Thanks for stopping by! 😊
