@@ -6,8 +6,6 @@ Welcome to my GitHub profile. I’m passionate about data, trading, and turning 
 
 ## 🚀 What I'm Working On
 - 🔎 Building dashboards using Power BI & Excel
-- 🌿 Starting a sustainable e-commerce brand
-- 📈 Analyzing trading patterns (XAUUSD, Forex)
 
 ## 🧰 Tools I Use
 - Power BI, Excel, Python
@@ -16,10 +14,9 @@ Welcome to my GitHub profile. I’m passionate about data, trading, and turning 
 
 ## 📌 Featured Projects
 - [📊 Power BI Dashboard – Sales Performance](https://github.com/yourusername/sales-dashboard)
-- [📈 XAUUSD Trading Analytics](https://github.com/yourusername/xauusd-analysis)
 
 ## 📬 Connect with Me
-[LinkedIn](https://linkedin.com/in/Ameenahsanmi) | [YouTube – The Wealth Stories](https://youtube.com/@thewealthstories)
+[LinkedIn](https://linkedin.com/in/Ameenahsanmi) | 
 
 ---
 
