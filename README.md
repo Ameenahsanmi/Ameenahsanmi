@@ -13,10 +13,10 @@ Welcome to my GitHub profile. I’m passionate about data, trading, and turning 
 - Canva, Figma
 
 ## 📌 Featured Projects
-- [📊 Power BI Dashboard – Sales Performance](https://github.com/yourusername/sales-dashboard)
+- [📊 Power BI Dashboard – Sales Performance](https://github.com/Ameenahsanmi/Excel-Sales-and-Finance-Analytics-AtliQ-Hardwares)
 
 ## 📬 Connect with Me
-[LinkedIn](https://linkedin.com/in/Ameenahsanmi) | 
+[LinkedIn](https://linkedin.com/in/Ameenahsanmi) | [Portfolio Website](https://codebasics.io/portfolio/Ameen-Ahsan-M-I)
 
 ---
 
